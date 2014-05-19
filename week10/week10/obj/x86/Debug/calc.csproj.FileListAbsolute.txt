@@ -1,0 +1,7 @@
+C:\Users\mong\AppData\Local\Temporary Projects\calc\bin\Debug\calc.exe
+C:\Users\mong\AppData\Local\Temporary Projects\calc\bin\Debug\calc.pdb
+C:\Users\mong\AppData\Local\Temporary Projects\calc\obj\x86\Debug\calc.Form1.resources
+C:\Users\mong\AppData\Local\Temporary Projects\calc\obj\x86\Debug\calc.Properties.Resources.resources
+C:\Users\mong\AppData\Local\Temporary Projects\calc\obj\x86\Debug\calc.csproj.GenerateResource.Cache
+C:\Users\mong\AppData\Local\Temporary Projects\calc\obj\x86\Debug\calc.exe
+C:\Users\mong\AppData\Local\Temporary Projects\calc\obj\x86\Debug\calc.pdb

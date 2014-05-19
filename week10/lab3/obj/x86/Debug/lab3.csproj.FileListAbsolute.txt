@@ -1,0 +1,2 @@
+C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\lab3\obj\x86\Debug\lab3.Properties.Resources.resources
+C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\lab3\obj\x86\Debug\lab3.csproj.GenerateResource.Cache

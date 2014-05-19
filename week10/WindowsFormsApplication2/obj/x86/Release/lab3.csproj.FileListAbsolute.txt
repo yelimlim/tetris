@@ -1,0 +1,8 @@
+C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\WindowsFormsApplication2\obj\x86\Release\lab3.csprojResolveAssemblyReference.cache
+C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.Form1.resources
+C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\WindowsFormsApplication2\obj\x86\Release\lab3.csproj.GenerateResource.Cache
+C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.exe
+C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.pdb
