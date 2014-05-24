@@ -1,0 +1,4 @@
+C:\Users\mong\documents\visual studio 2010\Projects\week11\week11\bin\Release\week11.exe
+C:\Users\mong\documents\visual studio 2010\Projects\week11\week11\bin\Release\week11.pdb
+C:\Users\mong\documents\visual studio 2010\Projects\week11\week11\obj\x86\Release\week11.exe
+C:\Users\mong\documents\visual studio 2010\Projects\week11\week11\obj\x86\Release\week11.pdb

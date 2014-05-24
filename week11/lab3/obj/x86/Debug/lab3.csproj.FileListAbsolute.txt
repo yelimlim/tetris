@@ -1,0 +1,7 @@
+C:\Users\mong\Documents\Visual Studio 2010\Projects\week11\lab3\bin\Debug\lab3.exe
+C:\Users\mong\Documents\Visual Studio 2010\Projects\week11\lab3\bin\Debug\lab3.pdb
+C:\Users\mong\Documents\Visual Studio 2010\Projects\week11\lab3\obj\x86\Debug\lab3.Properties.Resources.resources
+C:\Users\mong\Documents\Visual Studio 2010\Projects\week11\lab3\obj\x86\Debug\lab3.csproj.GenerateResource.Cache
+C:\Users\mong\Documents\Visual Studio 2010\Projects\week11\lab3\obj\x86\Debug\lab3.exe
+C:\Users\mong\Documents\Visual Studio 2010\Projects\week11\lab3\obj\x86\Debug\lab3.pdb
+C:\Users\mong\Documents\Visual Studio 2010\Projects\week11\lab3\obj\x86\Debug\lab3.Form1.resources
