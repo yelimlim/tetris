@@ -8,6 +8,9 @@ namespace WindowsFormsApplication3
 {
     class Figure
     {
+        public virtual void Show(Graphics g)
+        {
+        }
     }
 
     class Rectangle : Figure
@@ -21,7 +24,7 @@ namespace WindowsFormsApplication3
             this.RightBottom = new Point(Right, Bottom);
         }
 
-        public virtual void Show(Graphics Rec)
+        public override void Show(Graphics Rec)
         {
             Rec.DrawRectangle(Pens.Black,
                 LeftTop.X, LeftTop.Y,
@@ -102,7 +105,7 @@ namespace WindowsFormsApplication3
         }
 
 
-        public virtual void Show(Graphics tri)
+        public override void Show(Graphics tri)
         {
             tri.DrawPolygon(Pens.Black, Points);
 

@@ -1,0 +1,4 @@
+C:\Users\mong\Documents\Visual Studio 2010\Projects\ListExample\ListExample\bin\Debug\ListExample.exe
+C:\Users\mong\Documents\Visual Studio 2010\Projects\ListExample\ListExample\bin\Debug\ListExample.pdb
+C:\Users\mong\Documents\Visual Studio 2010\Projects\ListExample\ListExample\obj\x86\Debug\ListExample.exe
+C:\Users\mong\Documents\Visual Studio 2010\Projects\ListExample\ListExample\obj\x86\Debug\ListExample.pdb

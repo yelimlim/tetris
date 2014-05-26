@@ -1,0 +1,8 @@
+C:\Users\mong\AppData\Local\Temporary Projects\ramanujan\bin\Debug\ramanujan.exe
+C:\Users\mong\AppData\Local\Temporary Projects\ramanujan\bin\Debug\ramanujan.pdb
+C:\Users\mong\AppData\Local\Temporary Projects\ramanujan\obj\x86\Debug\ramanujan.exe
+C:\Users\mong\AppData\Local\Temporary Projects\ramanujan\obj\x86\Debug\ramanujan.pdb
+C:\Users\mong\documents\visual studio 2010\Projects\ramanujan\ramanujan\obj\x86\Debug\ramanujan.exe
+C:\Users\mong\documents\visual studio 2010\Projects\ramanujan\ramanujan\obj\x86\Debug\ramanujan.pdb
+C:\Users\mong\documents\visual studio 2010\Projects\ramanujan\ramanujan\bin\Debug\ramanujan.exe
+C:\Users\mong\documents\visual studio 2010\Projects\ramanujan\ramanujan\bin\Debug\ramanujan.pdb

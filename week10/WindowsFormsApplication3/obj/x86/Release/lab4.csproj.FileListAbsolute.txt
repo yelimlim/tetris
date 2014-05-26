@@ -1,0 +1,7 @@
+C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\WindowsFormsApplication3\obj\x86\Release\WindowsFormsApplication3.Form1.resources
+C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\WindowsFormsApplication3\obj\x86\Release\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\WindowsFormsApplication3\obj\x86\Release\lab4.csproj.GenerateResource.Cache
+C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\WindowsFormsApplication3\obj\x86\Release\WindowsFormsApplication3.exe
+C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\WindowsFormsApplication3\obj\x86\Release\WindowsFormsApplication3.pdb

@@ -1,0 +1,5 @@
+C:\Users\mong\Documents\Visual Studio 2010\Projects\ListExample\ListExample\bin\Release\ListExample.exe
+C:\Users\mong\Documents\Visual Studio 2010\Projects\ListExample\ListExample\bin\Release\ListExample.pdb
+C:\Users\mong\Documents\Visual Studio 2010\Projects\ListExample\ListExample\obj\x86\Release\ListExample.csprojResolveAssemblyReference.cache
+C:\Users\mong\Documents\Visual Studio 2010\Projects\ListExample\ListExample\obj\x86\Release\ListExample.exe
+C:\Users\mong\Documents\Visual Studio 2010\Projects\ListExample\ListExample\obj\x86\Release\ListExample.pdb

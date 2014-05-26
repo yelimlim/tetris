@@ -17,10 +17,7 @@ namespace WindowsFormsApplication3
             InitializeComponent();
         }
 
-        private ArrayList Rectangles = new ArrayList();
-        private ArrayList Squares = new ArrayList();
-        private ArrayList Circles = new ArrayList();
-        private ArrayList Triangles = new ArrayList();
+        private ArrayList Figures = new ArrayList();
         
 
         private void Form1_DoubleClick(object sender, EventArgs e)
@@ -47,19 +44,19 @@ namespace WindowsFormsApplication3
             switch (Random)
             {
                 case 0:
-                    Rectangles.Add(rectangle);
+                    Figures.Add(rectangle);
                     break;
                 
                 case 1:
-                    Squares.Add(square);
+                    Figures.Add(square);
                     break;
 
                 case 2:
-                    Circles.Add(circle);
+                    Figures.Add(circle);
                     break;
 
                 case 3:
-                    Triangles.Add(triangle);
+                    Figures.Add(triangle);
                     break;
 
                 default:
@@ -76,25 +73,11 @@ namespace WindowsFormsApplication3
         {
             using (Graphics g = this.CreateGraphics())
             {
-                foreach (Rectangle rectangle in Rectangles)
+                foreach (Figure figure in Figures)
                 {
-                    rectangle.Show(g);
+                    figure.Show(g);
                 }
 
-                foreach (Square square in Squares)
-                {
-                    square.Show(g);
-                }
-
-                foreach (Circle circle in Circles)
-                {
-                    circle.Show(g);
-                }
-
-                foreach (Triangle triangle in Triangles)
-                {
-                    triangle.Show(g);
-                }
             }
         }
     }
