@@ -14,6 +14,8 @@ namespace ListExample
             public double coef;
             public int exp;
             public Term next;
+
+            
         };
 
         class Polynomial
@@ -61,12 +63,13 @@ namespace ListExample
                     {
                     }
 
-                    if (t.coef == 0)
-                    {
-                    } 
-                    else if (t.exp == 0)
+                    if (t.exp == 0)
                     {
                         Console.Write("{0}", t.coef);
+                    }
+                    else if (t.coef == 1 && t.exp == 1)
+                    {
+                        Console.Write("x");
                     }
                     else if (t.coef == 1)
                     {
@@ -76,10 +79,8 @@ namespace ListExample
                     {
                         Console.Write("{0}x", t.coef);
                     }
-
                     else
                     {
-
                         Console.Write("{0}x^{1}", t.coef, t.exp);
                     }
                 }
@@ -90,9 +91,19 @@ namespace ListExample
             public void DeleteTerm(Term s)
             {
                 s.coef = 0;
+                for (Term t = first; t != null; t = t.next)
+                {
+                    if (t.next == s)
+                    {
+                        t.next = s.next;
+                        s.next = null;
+                        break;
+                    }
+                }
+
             }
 
-           
+
             public Polynomial Simplify()
             {
                 Polynomial res = new Polynomial();
@@ -117,6 +128,47 @@ namespace ListExample
                 
                 return res;
             }
+
+            public Polynomial Reverse()
+            {
+                Polynomial rev = new Polynomial();
+                
+                for (Term t = first; t != null; t = t.next)
+                {
+
+                    int exp = t.exp;
+                    double coef = t.coef;
+
+                    rev.AddTerm(coef, exp);
+                }
+
+                return rev;
+            }
+
+            public Polynomial Sort()
+            {
+                Polynomial sor = new Polynomial();
+
+                for (int i = 0; i < 5; i++)
+                {
+
+
+                    for (Term t = first; t != null; t = t.next)
+                    {
+
+                        int exp = t.exp;
+                        double coef = t.coef;
+
+                        if (t.exp == i)
+                        {
+                            sor.AddTerm(coef, exp);
+                        }
+
+                    }
+                }
+
+                return sor;
+            }
         }
 
         
@@ -133,6 +185,14 @@ namespace ListExample
             Polynomial s = p.Simplify();
 
             s.PrintPoly();
+
+            Polynomial v = s.Reverse();
+
+            v.PrintPoly();
+
+            Polynomial j = v.Sort();
+
+            j.PrintPoly();
         }
     }
 }

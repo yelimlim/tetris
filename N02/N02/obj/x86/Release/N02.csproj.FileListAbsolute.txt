@@ -1,0 +1,9 @@
+C:\Users\mong\AppData\Local\Temporary Projects\N02\bin\Release\N02.exe
+C:\Users\mong\AppData\Local\Temporary Projects\N02\bin\Release\N02.pdb
+C:\Users\mong\AppData\Local\Temporary Projects\N02\obj\x86\Release\N02.exe
+C:\Users\mong\AppData\Local\Temporary Projects\N02\obj\x86\Release\N02.pdb
+C:\Users\mong\documents\visual studio 2010\Projects\N02\N02\obj\x86\Release\N02.exe
+C:\Users\mong\documents\visual studio 2010\Projects\N02\N02\obj\x86\Release\N02.pdb
+C:\Users\mong\documents\visual studio 2010\Projects\N02\N02\bin\Release\N02.exe
+C:\Users\mong\documents\visual studio 2010\Projects\N02\N02\bin\Release\N02.pdb
+C:\Users\mong\Documents\Visual Studio 2010\Projects\N02\N02\obj\x86\Release\N02.csprojResolveAssemblyReference.cache

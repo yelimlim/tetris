@@ -1,0 +1,4 @@
+C:\Users\mong\documents\visual studio 2010\Projects\N02\N02\bin\Debug\N02.exe
+C:\Users\mong\documents\visual studio 2010\Projects\N02\N02\bin\Debug\N02.pdb
+C:\Users\mong\documents\visual studio 2010\Projects\N02\N02\obj\x86\Debug\N02.exe
+C:\Users\mong\documents\visual studio 2010\Projects\N02\N02\obj\x86\Debug\N02.pdb

@@ -1,0 +1,14 @@
+C:\Users\mong\AppData\Local\Temporary Projects\오목\bin\Debug\오목.exe
+C:\Users\mong\AppData\Local\Temporary Projects\오목\bin\Debug\오목.pdb
+C:\Users\mong\AppData\Local\Temporary Projects\오목\obj\x86\Debug\오목.Form1.resources
+C:\Users\mong\AppData\Local\Temporary Projects\오목\obj\x86\Debug\오목.Properties.Resources.resources
+C:\Users\mong\AppData\Local\Temporary Projects\오목\obj\x86\Debug\오목.csproj.GenerateResource.Cache
+C:\Users\mong\AppData\Local\Temporary Projects\오목\obj\x86\Debug\오목.exe
+C:\Users\mong\AppData\Local\Temporary Projects\오목\obj\x86\Debug\오목.pdb
+C:\Users\mong\documents\visual studio 2010\Projects\오목\오목\obj\x86\Debug\오목.exe
+C:\Users\mong\documents\visual studio 2010\Projects\오목\오목\obj\x86\Debug\오목.pdb
+C:\Users\mong\Documents\Visual Studio 2010\Projects\오목\오목\bin\Debug\오목.exe
+C:\Users\mong\Documents\Visual Studio 2010\Projects\오목\오목\bin\Debug\오목.pdb
+C:\Users\mong\Documents\Visual Studio 2010\Projects\오목\오목\obj\x86\Debug\오목.Form1.resources
+C:\Users\mong\Documents\Visual Studio 2010\Projects\오목\오목\obj\x86\Debug\오목.Properties.Resources.resources
+C:\Users\mong\Documents\Visual Studio 2010\Projects\오목\오목\obj\x86\Debug\오목.csproj.GenerateResource.Cache

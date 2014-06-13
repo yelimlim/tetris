@@ -1,0 +1,8 @@
+C:\Users\mong\AppData\Local\Temporary Projects\N03\bin\Release\N03.exe
+C:\Users\mong\AppData\Local\Temporary Projects\N03\bin\Release\N03.pdb
+C:\Users\mong\AppData\Local\Temporary Projects\N03\obj\x86\Release\N03.exe
+C:\Users\mong\AppData\Local\Temporary Projects\N03\obj\x86\Release\N03.pdb
+C:\Users\mong\documents\visual studio 2010\Projects\N03\N03\obj\x86\Release\N03.exe
+C:\Users\mong\documents\visual studio 2010\Projects\N03\N03\obj\x86\Release\N03.pdb
+C:\Users\mong\documents\visual studio 2010\Projects\N03\N03\bin\Release\N03.exe
+C:\Users\mong\documents\visual studio 2010\Projects\N03\N03\bin\Release\N03.pdb
