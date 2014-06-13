@@ -1,4 +1,0 @@
-C:\Users\mong\Documents\Visual Studio 2010\Projects\N\N\bin\Debug\N.exe
-C:\Users\mong\Documents\Visual Studio 2010\Projects\N\N\bin\Debug\N.pdb
-C:\Users\mong\Documents\Visual Studio 2010\Projects\N\N\obj\x86\Debug\N.exe
-C:\Users\mong\Documents\Visual Studio 2010\Projects\N\N\obj\x86\Debug\N.pdb

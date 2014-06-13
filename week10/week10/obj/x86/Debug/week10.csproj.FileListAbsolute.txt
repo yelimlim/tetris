@@ -1,7 +1,0 @@
-C:\Users\mong\documents\visual studio 2010\Projects\week10\week10\bin\Debug\week10.exe
-C:\Users\mong\documents\visual studio 2010\Projects\week10\week10\bin\Debug\week10.pdb
-C:\Users\mong\documents\visual studio 2010\Projects\week10\week10\obj\x86\Debug\calc.Form1.resources
-C:\Users\mong\documents\visual studio 2010\Projects\week10\week10\obj\x86\Debug\calc.Properties.Resources.resources
-C:\Users\mong\documents\visual studio 2010\Projects\week10\week10\obj\x86\Debug\week10.csproj.GenerateResource.Cache
-C:\Users\mong\documents\visual studio 2010\Projects\week10\week10\obj\x86\Debug\week10.exe
-C:\Users\mong\documents\visual studio 2010\Projects\week10\week10\obj\x86\Debug\week10.pdb

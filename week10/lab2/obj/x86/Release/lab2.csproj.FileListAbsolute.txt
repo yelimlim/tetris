@@ -1,8 +1,0 @@
-C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\lab2\bin\Release\lab2.exe
-C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\lab2\bin\Release\lab2.pdb
-C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\lab2\obj\x86\Release\lab2.Form1.resources
-C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\lab2\obj\x86\Release\lab2.Properties.Resources.resources
-C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\lab2\obj\x86\Release\lab2.csproj.GenerateResource.Cache
-C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\lab2\obj\x86\Release\lab2.exe
-C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\lab2\obj\x86\Release\lab2.pdb
-C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\lab2\obj\x86\Release\lab2.csprojResolveAssemblyReference.cache

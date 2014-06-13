@@ -1,7 +1,0 @@
-C:\Users\mong\Documents\Visual Studio 2010\Projects\week11\lab4\obj\x86\Debug\lab4.Form1.resources
-C:\Users\mong\Documents\Visual Studio 2010\Projects\week11\lab4\obj\x86\Debug\lab4.Properties.Resources.resources
-C:\Users\mong\Documents\Visual Studio 2010\Projects\week11\lab4\obj\x86\Debug\lab4.csproj.GenerateResource.Cache
-C:\Users\mong\Documents\Visual Studio 2010\Projects\week11\lab4\bin\Debug\lab4.exe
-C:\Users\mong\Documents\Visual Studio 2010\Projects\week11\lab4\bin\Debug\lab4.pdb
-C:\Users\mong\Documents\Visual Studio 2010\Projects\week11\lab4\obj\x86\Debug\lab4.exe
-C:\Users\mong\Documents\Visual Studio 2010\Projects\week11\lab4\obj\x86\Debug\lab4.pdb

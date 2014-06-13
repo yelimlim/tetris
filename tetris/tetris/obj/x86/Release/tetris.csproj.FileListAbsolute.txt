@@ -1,9 +1,0 @@
-C:\Users\mong\AppData\Local\Temporary Projects\tetris\obj\x86\Release\tetris.Form1.resources
-C:\Users\mong\AppData\Local\Temporary Projects\tetris\obj\x86\Release\tetris.Properties.Resources.resources
-C:\Users\mong\AppData\Local\Temporary Projects\tetris\obj\x86\Release\tetris.csproj.GenerateResource.Cache
-C:\Users\mong\AppData\Local\Temporary Projects\tetris\bin\Release\tetris.exe
-C:\Users\mong\AppData\Local\Temporary Projects\tetris\bin\Release\tetris.pdb
-C:\Users\mong\AppData\Local\Temporary Projects\tetris\obj\x86\Release\tetris.exe
-C:\Users\mong\AppData\Local\Temporary Projects\tetris\obj\x86\Release\tetris.pdb
-C:\Users\mong\documents\visual studio 2010\Projects\tetris\tetris\obj\x86\Release\tetris.exe
-C:\Users\mong\documents\visual studio 2010\Projects\tetris\tetris\obj\x86\Release\tetris.pdb

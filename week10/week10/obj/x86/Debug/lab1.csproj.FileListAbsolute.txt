@@ -1,2 +1,0 @@
-C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\week10\obj\x86\Debug\week10.exe
-C:\Users\mong\Documents\Visual Studio 2010\Projects\week10\week10\obj\x86\Debug\week10.pdb
