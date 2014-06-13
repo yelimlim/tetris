@@ -1,0 +1,12 @@
+C:\Users\erinlee\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\erinlee\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\erinlee\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\erinlee\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\erinlee\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\erinlee\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\tetris1.csprojResolveAssemblyReference.cache
+C:\Users\erinlee\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\erinlee\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\erinlee\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\tetris1.csproj.GenerateResource.Cache
+C:\Users\mong\Documents\Visual Studio 2010\Projects\test1\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\mong\Documents\Visual Studio 2010\Projects\test1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\mong\Documents\Visual Studio 2010\Projects\test1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb

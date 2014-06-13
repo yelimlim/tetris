@@ -1,0 +1,25 @@
+C:\Users\erinlee\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\erinlee\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\erinlee\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\erinlee\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\erinlee\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\erinlee\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\tetris1.csprojResolveAssemblyReference.cache
+C:\Users\erinlee\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\erinlee\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\erinlee\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\tetris1.csproj.GenerateResource.Cache
+C:\Users\mong\Documents\Visual Studio 2010\Projects\test1\WindowsFormsApplication7 - 복사본 (2)\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\mong\Documents\Visual Studio 2010\Projects\test1\WindowsFormsApplication7 - 복사본 (2)\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\mong\Documents\Visual Studio 2010\Projects\test1\WindowsFormsApplication7 - 복사본 (2)\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\mong\Documents\Visual Studio 2010\Projects\test1\WindowsFormsApplication7 - 복사본 (2)\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\mong\Documents\Visual Studio 2010\Projects\test1\WindowsFormsApplication7 - 복사본 (2)\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\mong\Documents\Visual Studio 2010\Projects\test1\WindowsFormsApplication7 - 복사본 (2)\bin\Debug\mscorlib.dll
+C:\Users\mong\Documents\Visual Studio 2010\Projects\test1\WindowsFormsApplication7 - 복사본 (2)\bin\Debug\ko\mscorlib.resources.dll
+C:\Users\mong\Documents\Visual Studio 2010\Projects\test1\WindowsFormsApplication7 - 복사본 (2)\bin\Debug\normidna.nlp
+C:\Users\mong\Documents\Visual Studio 2010\Projects\test1\WindowsFormsApplication7 - 복사본 (2)\bin\Debug\normnfc.nlp
+C:\Users\mong\Documents\Visual Studio 2010\Projects\test1\WindowsFormsApplication7 - 복사본 (2)\bin\Debug\normnfd.nlp
+C:\Users\mong\Documents\Visual Studio 2010\Projects\test1\WindowsFormsApplication7 - 복사본 (2)\bin\Debug\normnfkc.nlp
+C:\Users\mong\Documents\Visual Studio 2010\Projects\test1\WindowsFormsApplication7 - 복사본 (2)\bin\Debug\normnfkd.nlp
+C:\Users\mong\Documents\Visual Studio 2010\Projects\test1\WindowsFormsApplication7 - 복사본 (2)\obj\Debug\tetris1.csprojResolveAssemblyReference.cache
+C:\Users\mong\Documents\Visual Studio 2010\Projects\test1\WindowsFormsApplication7 - 복사본 (2)\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\mong\Documents\Visual Studio 2010\Projects\test1\WindowsFormsApplication7 - 복사본 (2)\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\mong\Documents\Visual Studio 2010\Projects\test1\WindowsFormsApplication7 - 복사본 (2)\obj\Debug\tetris1.csproj.GenerateResource.Cache
